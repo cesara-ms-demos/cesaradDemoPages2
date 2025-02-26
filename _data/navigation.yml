@@ -2,5 +2,5 @@
   url: /
   nav_order: 1
 - title: About
-  url: /about.md
+  url: /about/
   nav_order: 2
